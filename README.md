@@ -1,1 +1,1 @@
-Dockerfile for tchung1970/centos8
+centos8 docker image built from GitHub
